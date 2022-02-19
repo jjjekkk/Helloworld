@@ -17,7 +17,7 @@ function makeOperation(operationCode) {
     } else {
         window.alert ('Operation unknown')
     }
-    window.alert(result);
+     document.getElementById('result').innerHTML = result;
 }
     
 function onOperationButtonClick (eventObject) {
