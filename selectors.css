@@ -1,0 +1,36 @@
+.section-news li {
+    padding: 10px;
+}
+.section-hot li:hover {
+    background-color: rgb(15, 56, 56);
+}
+
+.section-realty li:hover {
+    background-color: rgb(99, 99, 145); 
+}
+
+.section-hot .footer {
+    color: rgb(15, 56, 56);
+}
+
+.section-realty .footer {
+    color: rgb(99, 99, 145);
+}
+
+
+.section-news li:hover a {
+    color: aliceblue;
+}
+
+.section-news h2 {
+    color: aliceblue;
+    padding: 10px;
+}
+.section-hot h2 {
+        background-color: rgb(15, 56, 56);
+    }
+
+    .section-realty h2 {
+        background-color: rgb(99, 99, 145);
+    }
+
