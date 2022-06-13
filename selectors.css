@@ -1,6 +1,7 @@
 .section-news li {
     padding: 10px;
 }
+
 .section-hot li:hover {
     background-color: rgb(15, 56, 56);
 }
